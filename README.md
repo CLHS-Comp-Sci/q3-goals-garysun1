@@ -6,5 +6,5 @@ Upload your code from your preffered IDE underneath the Readme for the correspon
 
 Depending on your specific goals you may have 3 different repositories or no repositories.
 
-## Goal 2: Prepare for science fair presentation by finalizing design and presenting
-## Goal 3: Finish two-thirds of the "Microsoft Azure: AI Fundamentals" certification
+### Goal 2: Prepare for science fair presentation by finalizing design and presenting
+### Goal 3: Finish two-thirds of the "Microsoft Azure: AI Fundamentals" certification
